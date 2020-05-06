@@ -1,4 +1,4 @@
-# CS-GO-Data-Analysis
+# Statistical data analysis of Counter Strike Global Offensive
 
 
 ### Table of Contents
@@ -11,7 +11,14 @@
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+There are few libraries required to run the code.  The code should run with no issues using Python versions 3.*.  
+Required Libraries are:   
+  1. pandas
+  2. numpy
+  3. matplotlib
+  4. seaborn
+  5. scipy
+  6. statsmodels
 
 ## Project Motivation<a name="motivation"></a>
 
