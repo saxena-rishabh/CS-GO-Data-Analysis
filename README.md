@@ -1,4 +1,4 @@
-# Statistical data analysis of Counter Strike Global Offensive
+# Statistical Data Analysis of Counter Strike Global Offensive
 
 
 ### Table of Contents
