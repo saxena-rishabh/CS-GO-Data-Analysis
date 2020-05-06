@@ -35,7 +35,6 @@ By doing statistical data analysis, I want to know about
 This repository contains 3 files.  
 1. Dataset (.csv) -  Dataset used in this project
 2. Jupyter Notebook (.ipynb) -  Contains statistical data analysis
-3. PDF - Jupyter Notebook exported as PDF
 
 
 ## Results<a name="results"></a>
