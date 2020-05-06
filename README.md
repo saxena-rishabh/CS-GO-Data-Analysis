@@ -1,5 +1,6 @@
 # Statistical Data Analysis of Counter Strike Global Offensive
 
+**The link to the Blog post is [here](https://medium.com/@saxena_rishabh/statistical-data-analysis-of-counter-strike-global-offensive-259e0c2b4962)**
 
 ### Table of Contents
 
@@ -39,7 +40,7 @@ This repository contains 3 files.
 
 ## Results<a name="results"></a>
 
-The answers to the questions asked above are available here [here](https://medium.com/@saxena_rishabh/statistical-data-analysis-of-counter-strike-global-offensive-259e0c2b4962).
+The answers to the questions asked above are available [here](https://medium.com/@saxena_rishabh/statistical-data-analysis-of-counter-strike-global-offensive-259e0c2b4962).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
