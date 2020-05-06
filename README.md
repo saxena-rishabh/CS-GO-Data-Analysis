@@ -22,7 +22,6 @@ Required Libraries are:
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
 Being a Data Science Enthusiast and Counter Strike Player, I was very much interested in doing statistical data anaylysis for CS GO data to practice some data science skills and to gain some insights from data.
 
 By doing statistical data analysis, I want to know about
