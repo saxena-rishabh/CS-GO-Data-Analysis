@@ -39,7 +39,7 @@ This repository contains 3 files.
 
 ## Results<a name="results"></a>
 
-The answers to the questions asked above are available here [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The answers to the questions asked above are available here [here](https://medium.com/@saxena_rishabh/statistical-data-analysis-of-counter-strike-global-offensive-259e0c2b4962).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
