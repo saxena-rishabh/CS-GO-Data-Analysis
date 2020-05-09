@@ -33,7 +33,7 @@ By doing statistical data analysis, I want to know about
 
 ## File Descriptions <a name="files"></a>
 
-This repository contains 3 files.  
+This repository contains 2 files.  
 1. Dataset (.csv) -  Dataset used in this project
 2. Jupyter Notebook (.ipynb) -  Contains statistical data analysis
 
